@@ -13,28 +13,6 @@ def main():
     #print(os.mkdir('New Directory'))
     #print(os.rmdir('New Directory'))
 
-
-
-
-
-
-    #pDirectory = os.listdir()
-    #print('.. ', pDirectory)
-
-    #pDirectory = 
-
-
-
-
-
-    
-    
-
-
-
-
-
-    
     return
 
 if __name__ == '__main__':
